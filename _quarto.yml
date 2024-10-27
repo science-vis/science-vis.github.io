@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "science-vis.github.io"
+  title: "Veronika Romero"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
 
