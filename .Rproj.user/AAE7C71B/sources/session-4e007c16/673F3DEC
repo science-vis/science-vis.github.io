@@ -3,7 +3,7 @@
     "path": "~/Documents/science_vis_website/science-vis.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "2917802695",
+    "hash": "90135746",
     "contents": "",
     "dirty": false,
     "created": 1730000833177.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,16",
+        "cursorPosition": "9,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730003763,
+    "lastKnownWriteTime": 1730086787,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730003763414,
+    "last_content_update": 1730086787109,
     "read_only": false,
     "read_only_alternatives": []
 }
