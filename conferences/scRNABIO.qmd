@@ -1,5 +1,6 @@
 ---
 title: single-cell RNABIO & organoids
-subtite: Sep 28-30, 2018 | Kyiv, Ukraine
-description: "Post description"
+subtite: 
+description: "Sep 28-30, 2018 | Kyiv, Ukraine"
 ---
+A full day symposium on single-cell RNA-seq technologies and two days of DIY microfluidics workshops.

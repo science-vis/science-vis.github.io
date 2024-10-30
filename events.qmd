@@ -3,20 +3,13 @@ listing:
   - id: conferences
     contents: "conferences/*.qmd"
     type: grid
-  - id: seminars
-    contents: "seminars/*.qmd"
-    type: table
+
 ---
 
 Here you can find information about the selected events I have (co-)organized
 
-## Conferences, symposiums, workshops
 
-:::{#lab-reports}
+:::{#conferences}
 :::
 
-## Public seminars and meetups
-
-:::{#meeting-notes}
-:::
 
