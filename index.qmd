@@ -3,6 +3,8 @@ title: "Veronika Romero"
 about:
   template: solana
   image: profilepic.jpg
+  image-shape: round
+  image-width: 12em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -17,6 +19,53 @@ about:
       text: Email
       href: mailto:dr.veronika.romero@gmail.com
 ---
+:::{#hero-heading}
 
-With over 15 years of expertise in biomedical research, I am proficient in a variety of laboratory techniques and passionate about data analysis and visualization. I love troubleshooting and problem-solving from laboratory protocols to the code for data analysis. 
+With over 15 years of expertise in biomedical research, I am proficient in a variety of laboratory techniques and passionate about data analysis and visualization. I love team troubleshooting and problem-solving from laboratory protocols to the code for data analysis. 
+
+## Education
+
+**Bogomoletz Institute of Physiology** | Kyiv, Ukraine
+
+* PhD analogue in Pathophysiology | 2011-2015
+
+
+**Bogomolets National Medical University** | Kyiv, Ukraine
+
+* Doctor of Medicine, General Medicine | 2005-2011
+
+## Experience
+
+**University of Utah** | Salt Lake City, UT, USA
+
+* Research Scientist | September 2023 - October 2024
+
+* Senior Laboratory Specialist | March 2021 - September 2023
+
+* Research Associate | July 2018 - June 2020
+
+
+**Bogomoletz Institute of Physiology** | Kyiv, Ukraine
+
+* Junior Research Fellow | 2015 - 2018
+
+* Graduate Researcher | 2011 - 2015
+
+* Technician / Undergraduate researcher | 2009 - 2011
+
+* Volunteer researcher | 2008 - 2009
+
+
+**BioLabTech Ltd.**
+
+* Product manager | 2016 - 2017 | Kyiv, Ukraine
+
+
+**Bogomolets National Medical University**
+
+* Teaching Associate | 2011 - 2013 | Kyiv, Ukraine
+
+:::
+
+
 
