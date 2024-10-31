@@ -40,50 +40,50 @@ Mission-driven scientist with over 15 years in biomedical research.  Passionate 
 ::: {.panel-tabset}
 ## Data
 
-* R (tidyverse, shiny)
+R (tidyverse, shiny)
 
-* Python
+Python
 
-* SQL
+SQL
 
-* SPSS
+SPSS
 
-* Excel
+Excel
 
-* Tableau
+Tableau
 
-* Statistics
+Statistics
 
-* Machine Learning
+Machine Learning
 
 ## Wet lab
 
-* Mammalian cell culture
+Mammalian cell culture
 
-* Transduction and transfection of cultured cells with CRISPR/Cas9 constructs and siRNA
+Transduction and transfection of cultured cells with CRISPR/Cas9 constructs and siRNA
 
-* Live cell imaging
+Live cell imaging
 
-* Single nuclei isolation from dissected mouse hippocampi and single-cell RNA-seq workflows
+Single nuclei isolation from dissected mouse hippocampi and single-cell RNA-seq workflows
 
-* PCR and qPCR
+PCR and qPCR
 
-* Western Blot
+Western Blot
 
-* Fluorescent RNA *in situ* hybridizations (RNAscope, HCR)
+Fluorescent RNA *in situ* hybridizations (RNAscope, HCR)
 
-* ICC and IHC
+ICC and IHC
 
-* Confocal and epifluorescent imaging
+Confocal and epifluorescent imaging
 
 
 ## Model systems
 
-* Rodents (rats, mice)
+Rodents (rats, mice)
 
-* Zebrafish
+Zebrafish
 
-* Mammalian cell culture: 
+Mammalian cell culture: 
 
   + human induced pluripotent stem cells (iPSC)
 
@@ -99,27 +99,27 @@ Mission-driven scientist with over 15 years in biomedical research.  Passionate 
 
 ## Other
 
-* Full-stack organization of scientific events
+Full-stack organization of scientific events
 
-* Graphical design (Adobe Photoshop, Adobe Illustrator)
+Graphical design (Adobe Photoshop, Adobe Illustrator)
 
-* MS Office
+MS Office
 
-* Teaching
+Teaching
 
-* Client-facing product support for research equipment and reagents
+Client-facing product support for research equipment and reagents
 
-* Lab management
+Lab management
 
 ## Languages
 
-* English - fluent
+English - fluent
 
-* Ukrainian – native/bilingual
+Ukrainian – native/bilingual
 
-* russian – native/bilingual
+russian – native/bilingual
 
-* German - elementary
+German - elementary
 :::
 
 ## Education
