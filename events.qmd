@@ -1,15 +1,11 @@
 ---
 listing: 
-  - id: conferences
-    contents: "conferences/*.qmd"
+  - id: events
+    contents: "events/*.qmd"
     type: grid
-
 ---
 
-Here you can find information about the selected events I have (co-)organized
-
-
-:::{#conferences}
+:::{#events}
 :::
 
 

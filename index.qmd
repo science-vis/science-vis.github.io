@@ -1,8 +1,10 @@
 ---
 title: "Veronika Romero"
+image: profilepic.jpg
+resources: events
+
 about:
   template: solana
-  image: profilepic.jpg
   image-shape: round
   image-width: 12em
   links:
@@ -15,26 +17,126 @@ about:
     - icon: github
       text: Github
       href: https://github.com/science-vis
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/dr.vero.romero/
     - icon: envelope-at
       text: Email
       href: mailto:dr.veronika.romero@gmail.com
+      
 ---
 :::{#hero-heading}
 
 With over 15 years of expertise in biomedical research, I am proficient in a variety of laboratory techniques and passionate about data analysis and visualization. I love team troubleshooting and problem-solving from laboratory protocols to the code for data analysis. 
 
+## Skills
+::: {.panel-tabset}
+## Data
+
+* R (tidyverse, shiny)
+
+* Python
+
+* SQL
+
+* SPSS
+
+* Excel
+
+* Tableau
+
+* Statistics
+
+* Machine Learning
+
+## Wet lab
+
+* Mammalian cell culture
+
+* Transduction and transfection of cultured cells with CRISPR/Cas9 constructs and siRNA
+
+* Live cell imaging
+
+* Single nuclei isolation from dissected mouse hippocampi and single-cell RNA-seq workflows
+
+* PCR and qPCR
+
+* Western Blot
+
+* Fluorescent RNA *in situ* hybridizations (RNAscope, HCR)
+
+* ICC and IHC
+
+* Confocal and epifluorescent imaging
+
+
+## Model systems
+
+* Rodents (rats, mice)
+
+* Zebrafish
+
+* Mammalian cell culture: 
+
+  + human induced pluripotent stem cells (iPSC)
+
+  + iPSC- and embryonic stem cell derived neurons and organoids
+
+  + primary rodent neuronal hippocampal cultures
+  
+  + primary neonatal rat cardiomyocytes
+
+  + HEK
+
+
+
+## Other
+
+* Full-stack organization of scientific events
+
+* Graphical design (Adobe Photoshop, Adobe Illustrator)
+
+* MS Office
+
+* Teaching
+
+* Client-facing product support for research equipment and reagents
+
+* Lab management
+
+## Languages
+
+* English - fluent
+
+* Ukrainian – native/bilingual
+
+* russian – native/bilingual
+
+* German - elementary
+:::
+
 ## Education
+
+::: {.panel-tabset}
+## PhD
 
 **Bogomoletz Institute of Physiology** | Kyiv, Ukraine
 
 * PhD analogue in Pathophysiology | 2011-2015
 
-
+## MD
 **Bogomolets National Medical University** | Kyiv, Ukraine
 
 * Doctor of Medicine, General Medicine | 2005-2011
 
-## Experience
+:::
+
+
+## Professional Experience
+
+::: {.panel-tabset}
+
+## Research
 
 **University of Utah** | Salt Lake City, UT, USA
 
@@ -55,11 +157,13 @@ With over 15 years of expertise in biomedical research, I am proficient in a var
 
 * Volunteer researcher | 2008 - 2009
 
+## Product Management
 
 **BioLabTech Ltd.**
 
-* Product manager | 2016 - 2017 | Kyiv, Ukraine
+* Product Manager | 2016 - 2017 | Kyiv, Ukraine
 
+## Teaching
 
 **Bogomolets National Medical University**
 

@@ -1,0 +1,11 @@
+---
+title: single-cell RNABIO & organoids
+description: "September 28-30, 2018 | Kyiv, Ukraine"
+image: "scRNABIO.png"
+---
+A full day symposium on single-cell RNA-seq technologies and two days of DIY microfluidics workshops.
+
+![](scRNABIO.png)
+
+[Website](https://rnabio.science/)
+
