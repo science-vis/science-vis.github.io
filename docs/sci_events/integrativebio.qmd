@@ -1,0 +1,10 @@
+---
+title: Integrative Biology & Medicine
+description: "October 2-7, 2017 | Kyiv, Ukraine"
+image: "integrativebio.png"
+---
+A week-long conference with packed schedule with 24 speakers from 11 countries. Dedicated to computational biology and personalized medicine. First of a kind in the field in Ukraine.
+
+![](integrativebio.png)
+
+[Website](https://integrativebio.com.ua/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="integrativebio.com.ua"}

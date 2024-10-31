@@ -1,6 +1,9 @@
 [
   {
     "listing": "/events.html",
-    "items": []
+    "items": [
+      "/sci_events/integrativebio.html",
+      "/sci_events/scRNABIO.html"
+    ]
   }
 ]

@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: events.qmd
+        text: My events
 
 format:
   html:

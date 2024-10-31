@@ -1,11 +1,12 @@
 ---
 listing: 
-  - id: events
-    contents: "events/*.qmd"
-    type: grid
+  contents: sci_events
+  type: grid
+  filter-ui: false
+  sort-ui: false
+ 
 ---
 
-:::{#events}
-:::
+
 
 
