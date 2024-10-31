@@ -1,7 +1,10 @@
 ---
 title: "Veronika Romero"
 image: profilepic.jpg
-resources: events
+resources: 
+  - events
+  - Veronika_Romero_CV_2024.pdf
+  - Veronika_Romero_CV_2024_hybrid.pdf
 
 about:
   template: solana
@@ -27,7 +30,10 @@ about:
 ---
 :::{#hero-heading}
 
-With over 15 years of expertise in biomedical research, I am proficient in a variety of laboratory techniques and passionate about data analysis and visualization. I love team troubleshooting and problem-solving from laboratory protocols to the code for data analysis. 
+Mission-driven scientist with over 15 years in biomedical research.  Passionate about analysis and visualization of complex data. Strong background in life sciences, biomedical research, and healthcare. Proficient in statistical analysis and diverse laboratory techniques in neuroscience and pathophysiology. Curiosity-driven critical thinker able to pick up new concepts and techniques quickly. A problem-solver who can bridge multiple disciplines and communicate effectively with colleagues from different backgrounds. 
+
+[Data CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Data CV"} [Hybrid CV](Veronika_Romero_CV_2024_hybrid.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Hybrid CV"}
+
 
 ## Skills
 ::: {.panel-tabset}
