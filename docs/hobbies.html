@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -96,6 +99,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./events.html"> 
 <span class="menu-text">My events</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./hobbies.html" aria-current="page"> 
+<span class="menu-text">My hobbies</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -132,7 +139,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"> <img src=".png" class="img-fluid" alt="A Lovely Image"></p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_003.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_003.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_000.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_000.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_005.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_005.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_002.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_002.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_004.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_004.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_007.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_007.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_011.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_011.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_001.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_001.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_008.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_008.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_009.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_009.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="microcrochet/micro_VR_010.jpeg" class="lightbox" data-gallery="my-gallery"><img src="microcrochet/micro_VR_010.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+</div>
 
 
 
@@ -558,6 +614,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

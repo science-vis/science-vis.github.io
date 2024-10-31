@@ -3,6 +3,7 @@ title: "Veronika Romero"
 image: profilepic.jpg
 resources: 
   - sci_events
+  - microcrochet
   - Veronika_Romero_CV_2024.pdf
   - Veronika_Romero_CV_2024_hybrid.pdf
 
