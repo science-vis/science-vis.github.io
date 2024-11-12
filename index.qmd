@@ -4,9 +4,8 @@ image: profilepic.jpg
 resources: 
   - sci_events
   - microcrochet
-  - Veronika_Romero_CV_2024_data_website.pdf
-  - Veronika_Romero_CV_2024_hybrid_website.pdf
-  - Veronika_Romero_resume_2024_website.pdf
+  - Veronika_Romero_CV_2024.pdf
+
 
 about:
   template: solana
@@ -25,32 +24,28 @@ about:
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/dr.vero.romero/
+    - icon: file-pdf
+      text: CV
+      href: Veronika_Romero_CV_2024.pdf
       
 ---
 :::{#hero-heading}
 
 Welcome to my website! 
 
-I am that person that would know many random things in several fields (mostly, life sciences, medicine, data science) and for entire life is torn between the beauty of fundamental cutting-edge research and being useful here and now. 
+I am not choosing fields but values, I am following interests, curiosity, and purpose. I am somewhere on the overlap of biology, medicine, and data science. I had diverse experiences in different fields learning my lessons which resulted not only in a skill set and a story to tell but a vision of how to do (and not to do) whatever I am up to next. 
 
-I am particularly passionate about creative and efficient ways to analyze and visualize complex data, to critically assess and challenge data to get meaningful and honest answers. I am a (selective) learning addict. Love to solve problems of different kinds and tackle tricky things. Found making lists of things I am afraid of and all of a sudden finding myself digging into that field. 
+I am most proud of some projects that were not a part of my job but a passion I had luxury and stubbornness to follow, boldness to create, and perseverance to lead to the finish.
 
-Enjoy being useful to the team and to the world. Even when being socially awkward I do need to be useful.
-
-I grew up and spent most of my life in Ukraine (Support Ukraine!). Since 2018 you can find me in Utah. Who knows where to next.
-
-For the longest time, science, organizing [conferences](/events.html), and playing with programming languages were my biggest hobbies but I decided to dig out crochet from my childhood and for last 5 years crocheting on and off. Microcrochet is my recent obsession and you can check out some works on the [hobbies page](/hobbies.html). 
-
+I care about science, scientific integrity, open science, and honest data analysis and representation.
 
 **Currently open for work.**
 
-There were some critical events that shifted my identity from being a scientist to being a person who loves science and would transfer into more "useful here and now" role. Would love to follow my heart and work with data of different flavors and apply tidyverse and shiny magic. Medicine or life sciences related? It's a plus as it is where I know most of (not so) random things. Includes both healthcare data and genomics, RNA biology, and single-cell biology? Yes, please. An opportunity to focus on the data but also contribute to wet lab, teach, help building a new startup/lab/department/company? That is a dream.
-
-Where? Anywhere where it is safe, good schools, and I can support my family of 3 humans and 2 furry friends.
+I am looking for a new challenge. Biomedical research, data science, computational bio. Preferably open science projects relevant to health challenges (cardiovascular and neuro are the closest to me but open to other fields as well). I really want to be a team work no matter the size of the team but quality, common values, and purpose. I will bring skills in wet lab, data science, problem-solving of all kinds, bridging interdisciplinary teams, addiction to learn, set up and improve workflows.
 
 Ideas or propositions? Please reach out to dr.veronika.romero [at] gmail [dot] com
 
-[Data CV](Veronika_Romero_CV_2024_data_website.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Data CV"} [Hybrid CV](Veronika_Romero_CV_2024_hybrid_website.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Hybrid CV"} [Resume](Veronika_Romero_resume_2024_website.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Resume"}
+[Open CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika CV"} 
 
 
 ## Skills
@@ -130,13 +125,11 @@ Lab management
 
 ## Languages
 
-English - fluent
+English
 
-Ukrainian – native/bilingual
+Ukrainian
 
-russian – native/bilingual
-
-German - elementary
+German (beginner)
 :::
 
 ## Education
