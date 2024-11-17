@@ -5,6 +5,7 @@ resources:
   - sci_events
   - microcrochet
   - Veronika_Romero_CV_2024.pdf
+  - Veronika_Romero_Science_CV_2024.pdf
 
 
 about:
@@ -39,13 +40,13 @@ I am most proud of some projects that were not a part of my job but a passion I 
 
 I care about biomedical science, translational research, scientific integrity, open science, and honest data analysis and representation. My technical gems are cell culture, RNA things, and ggplot graphs :)
 
-**Currently open for work.**
+**Currently open for work and collaborations.**
 
 I am looking for a new challenge. Biomedical research, data science, computational bio. Preferably open science projects relevant to health challenges (cardiovascular and neuro are the closest to me but open to other fields as well). I really want to be a part of the team work no matter the size of the team but quality, common values, and purpose. I will bring skills in wet lab, data science, problem-solving of all kinds, bridging interdisciplinary teams, addiction to learn, set up and improve workflows.
 
 Ideas or propositions? Please reach out to dr.veronika.romero [at] gmail [dot] com
 
-[Open CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika CV"} 
+[Data CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika CV"} [Science CV](Veronika_Romero_Science_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika science CV"} 
 
 
 ## Skills
