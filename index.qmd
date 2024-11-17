@@ -26,8 +26,11 @@ about:
       text: Instagram
       href: https://www.instagram.com/dr.vero.romero/
     - icon: file-pdf
-      text: CV
+      text: Data CV
       href: Veronika_Romero_CV_2024.pdf
+    - icon: file-pdf
+      text: Science CV
+      href: Veronika_Romero_Science_CV_2024.pdf
       
 ---
 :::{#hero-heading}
