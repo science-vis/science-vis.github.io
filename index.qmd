@@ -5,7 +5,7 @@ resources:
   - sci_events
   - microcrochet
   - Veronika_Romero_CV_2024.pdf
-  - Veronika_Romero_Science_CV_2024.pdf
+  - VeronikaRomero_Science_CV_2024.pdf
 
 
 about:
@@ -30,7 +30,7 @@ about:
       href: Veronika_Romero_CV_2024.pdf
     - icon: file-pdf
       text: Science CV
-      href: Veronika_Romero_Science_CV_2024.pdf
+      href: VeronikaRomero_Science_CV_2024.pdf
       
 ---
 :::{#hero-heading}
@@ -49,7 +49,7 @@ I am looking for a new challenge. Biomedical research, data science, computation
 
 Ideas or propositions? Please reach out to dr.veronika.romero [at] gmail [dot] com
 
-[Data CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika CV"} [Science CV](Veronika_Romero_Science_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika science CV"} 
+[Data CV](Veronika_Romero_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika CV"} [Science CV](VeronikaRomero_Science_CV_2024.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" target="_blank" title="Nika science CV"} 
 
 
 ## Skills
