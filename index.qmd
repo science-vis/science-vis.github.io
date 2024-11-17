@@ -19,9 +19,9 @@ about:
     - icon: google
       text: Google Scholar
       href: https://bit.ly/vr_google_scholar
-    - icon: github
-      text: Github
-      href: https://github.com/science-vis
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/science-vis
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/dr.vero.romero/
